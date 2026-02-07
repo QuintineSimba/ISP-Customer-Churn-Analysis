@@ -30,6 +30,8 @@ Each KPI shows current value + year-over-year % change with color-coded arrows.
 - Service tickets by category (column chart)
 - Year selector buttons + region/plan filters
 
+![Executive Dashboard Overview](images/Dashboard_Overview.png)
+
 ---
 
 ## What The Data Showed
