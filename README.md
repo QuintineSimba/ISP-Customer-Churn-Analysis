@@ -2,7 +2,7 @@
 
 **3-year dashboard showing 2024 churn crisis (170% spike) and 2025 recovery (45% drop) with hidden infrastructure risk**
 
-[📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2U3ZjFkMDItNjljOS00ZTQ5LThhMjktMzljNDVhMTAxZTJmIiwidCI6ImU0ZWVjNDM0LTk3N2MtNGI1Yy05MjJjLTc0ZTI0ZWVmNjVhMSJ9)
+[📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBmMmY5NjUtYzc5OS00MDY4LThmYzEtMWQ5ZjNlZDY0NWVmIiwidCI6ImU0ZWVjNDM0LTk3N2MtNGI1Yy05MjJjLTc0ZTI0ZWVmNjVhMSJ9)
 
 ---
 
