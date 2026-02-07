@@ -83,20 +83,6 @@ Despite 2025's strong numbers, I recommended:
 
 ---
 
-## Files
-
-```
-├── data/
-│   ├── customer_master.csv
-│   ├── monthly_billing.csv
-│   └── service_tickets.csv
-├── powerbi/
-│   └── Microtech.pbix
-└── README.md
-```
-
----
-
 ## How To Use
 
 1. Download `Microtech.pbix`
