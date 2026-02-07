@@ -1,14 +1,13 @@
-# ISP Churn Analysis - Microtech Networks
+# ISP Churn Analysis - Star-Net Cloud Networks
+[📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBmMmY5NjUtYzc5OS00MDY4LThmYzEtMWQ5ZjNlZDY0NWVmIiwidCI6ImU0ZWVjNDM0LTk3N2MtNGI1Yy05MjJjLTc0ZTI0ZWVmNjVhMSJ9)
 
 **3-year dashboard showing 2024 churn crisis (170% spike) and 2025 recovery (45% drop) with hidden infrastructure risk**
-
-[📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBmMmY5NjUtYzc5OS00MDY4LThmYzEtMWQ5ZjNlZDY0NWVmIiwidCI6ImU0ZWVjNDM0LTk3N2MtNGI1Yy05MjJjLTc0ZTI0ZWVmNjVhMSJ9)
 
 ---
 
 ## The Problem
 
-Microtech Networks needed to understand why customers were leaving. Was 2024 normal attrition or a crisis? Was 2025 really recovering?
+Star-Net needed to understand why customers were leaving. Was 2024 normal attrition or a crisis? Was 2025 really recovering?
 
 ---
 
@@ -85,7 +84,7 @@ Despite 2025's strong numbers, I recommended:
 
 ## How To Use
 
-1. Download `Microtech.pbix`
+1. Download `Star-Net.pbix`
 2. Open in Power BI Desktop
 3. Click year buttons (2023/2024/2025) to compare
 4. Use slicers to filter by region/plan
